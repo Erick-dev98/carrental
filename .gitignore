@@ -1,0 +1,11 @@
+# Local DB config (see *.sample.php for templates)
+includes/config.php
+admin/includes/config.php
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
